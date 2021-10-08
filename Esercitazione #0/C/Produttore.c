@@ -4,20 +4,20 @@
 #include <string.h>
 #include <unistd.h>
 #define MAX_STRING_LENGTH 256
-
+//test
 int main(int argc, char* argv[]){
-    
+
 	int fd, letti;
     char c;
 	char *file_out;
-	
+
 	//controllo numero argomenti
-	if (argc != 2){ 
+	if (argc != 2){
 		perror(" numero di argomenti sbagliato"); exit(1);
-	} 
-	
-	file_out = argv[1];	
-	
+	}
+
+	file_out = argv[1];
+
 	fd = open(file_out, O_WRONLY|O_CREAT|O_TRUNC, 00640);
 	if (fd < 0){
 		perror("P0: Impossibile creare/aprire il file");
@@ -28,6 +28,6 @@ int main(int argc, char* argv[]){
 	{
 		write(fd, &c, 1);
 	}
-	
+
 	close(fd);
 }
