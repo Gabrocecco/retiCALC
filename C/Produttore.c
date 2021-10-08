@@ -8,7 +8,7 @@
 int main(int argc, char* argv[]){
     
 	int fd, letti;
-    char c;
+    	char c;
 	char *file_out;
 	
 	//controllo numero argomenti
