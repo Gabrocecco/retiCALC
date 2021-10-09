@@ -27,7 +27,7 @@ public class Consumatore {
 			}
 		}
 		
-		//Come nell'esercizio in C, per evitare di iterare ogni volta su
+		//Come nell'esercizio in C, per evitare di iterare ogni volta su args[0], ovvero il prefisso
 		
 		for (int i = 0; i < args[0].length(); i++) {
 			check[(int) args[0].charAt(i)] = true;
