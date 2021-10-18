@@ -1,6 +1,3 @@
-CALENDARIO:
-
-
 12/10/21 | 0° esercitazione: Lettura e Scrittura File in Java e C
 
 19/10/21 | 1° esercitazione: Socket in Java senza connessione 
