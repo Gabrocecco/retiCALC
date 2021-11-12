@@ -1,0 +1,30 @@
+Server Parallelo
+
+Processi 1
+30
+Processi 2
+186
+Processi 3
+360
+Processi 4
+423
+Processi 5
+559
+Processi 6
+873
+
+
+Server Sequenziale
+
+Processi 1
+16
+Processi 2
+29
+Processi 3
+40
+Processi 4
+171
+Processi 5
+243
+Processi 6
+463
