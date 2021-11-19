@@ -10,7 +10,7 @@ CALENDARIO:
 
 09/11/21 | 4° esercitazione: Socket in C (gestione avanzata)
 
-16/11/21 | 5° esercitazione
+16/11/21 | 5° esercitazione: Quiz a lezione
 
 23/11/21 | 6° esercitazione: RMI
 
