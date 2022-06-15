@@ -20,3 +20,9 @@ CALENDARIO:
 
 14/12/21 | 9° esercitazione: RPC: Inizializzazione Strutture Dati sul Server
            
+           
+Andrea Belano
+Gabriele Ceccolini
+Filippo Loddo
+Simone Merenda
+
